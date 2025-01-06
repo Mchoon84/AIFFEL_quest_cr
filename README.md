@@ -1,6 +1,8 @@
 # AIFFEL_quest_cr
 
 ## 아이펠 7-2. 프로젝트 : GitHub 레포지토리 구성하기 프로젝트
+---
+MainQuest 8개, Python Quest C 4개, Flutter Quest C 5개, Exploration Quest C 7개로 이루어져 있음.
 
 ```
 AIFFEL_quest_cr
