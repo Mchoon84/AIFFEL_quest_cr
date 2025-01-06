@@ -1,5 +1,7 @@
 # AIFFEL_quest_cr
 
+## 아이펠 7-2. 프로젝트 : GitHub 레포지토리 구성하기 프로젝트
+
 ```
 AIFFEL_quest_cr
 ├── MainQuest
